@@ -5,3 +5,5 @@ Date 9.7.25 - Subject: what I learned. I learned about flask, but I am still con
 Date 9.15.25 - Subject: requirements. I learned about users' requirements, and so far so good.
 
 Date 9.22.25 - Subject: what is comming up to my team's project. We have set up most of thing; We have plan, diagram, users' story, and so on.
+
+Date 9.28.25 - Subject: Prepare for presentation: I finished some slide on powerpoint and vizulize what I will do for this project.
