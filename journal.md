@@ -6,4 +6,6 @@ Date 9.15.25 - Subject: requirements. I learned about users' requirements, and s
 
 Date 9.22.25 - Subject: what is comming up to my team's project. We have set up most of thing; We have plan, diagram, users' story, and so on.
 
-Date 9.28.25 - Subject: Prepare for presentation: I finished some slide on powerpoint and vizulize what I will do for this project.
+Date 9.28.25 - Subject: Prepare for presentation: I finished some slides on powerpoint and vizulize what I will do for this project.
+
+Date 5.10.2025 - Subject: What I learned last week: I learned how to manage a project. Also, I presented my project in class and received some feedbacks to improve our project like how to verify student.
